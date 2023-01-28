@@ -11,5 +11,5 @@
 
 <!-- resources -->
 
-[1]: https://wesolapani.pl/
+[1]: https://www.instagram.com/wesola_pani/
 [2]: https://zakazknig.pl/

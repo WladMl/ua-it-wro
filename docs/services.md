@@ -16,7 +16,10 @@
 [Кантор Cent][6] <br />
 [Кантор Kurs][7] <br />
 
-
+## Краса
+[Лазерна епіляція][8] <br />
+[Косметолог][9] <br />
+[Дерматолог / косметолог][10] <br />
 
 <!-- resources -->
 
@@ -27,3 +30,6 @@
 [5]: https://poland-consult.com/eu/pl/uchodzcy/kak-proverit-status-ukr.html
 [6]: https://www.centkantor.pl/
 [7]: https://t.me/kantor_kurs
+[8]: https://instagram.com/love_epil_wroclaw?igshid=YmMyMTA2M2Y=
+[9]: https://instagram.com/anna_zavolovich_cosmetolog?igshid=YmMyMTA2M2Y=
+[10]: https://www.instagram.com/dr_victoriarakhman/?igshid=YmMyMTA2M2Y%3D
