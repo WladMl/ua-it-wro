@@ -1,6 +1,8 @@
 site_name: UA-IT Wroclaw
 theme:
   name: material
+  palette:
+    primary: red
 
 nav:
   - Головна: index.md
