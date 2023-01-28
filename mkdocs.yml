@@ -1,0 +1,16 @@
+site_name: UA-IT Wroclaw
+theme:
+  name: material
+
+nav:
+  - Головна: index.md
+  - Авто-мото: automoto.md
+  - Готелі і відпочинок: hotels.md
+  - Діти: children.md
+  - Житло: apartments.md
+  - Легалізація: legalisation.md
+  - Магазини: shops.md
+  - Медицина: healthcare.md
+  - Послуги: services.md
+  - Ресторани: restaurants.md
+
