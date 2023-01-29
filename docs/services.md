@@ -4,7 +4,9 @@
 ## Документи
 [ДП Документ][1] - Виготовлення українських закордоних паспортів. Нові терміни додаються о 9.10 щодня, головне, щоб на сайті був запис на робочий день, а не на вихідний чи свято.<br />
 [Нотаріус][2]<br />
-[Перевірка PESEL UKR][5]
+[Перевірка PESEL UKR][5]<br />
+[Присяжні перекладачі][11]<br />
+
 		
 ## Ремонт	
 [AppleFix][3] - Два рази міняв акумулятор в ноуті і три рази в айфоні в
@@ -33,3 +35,4 @@
 [8]: https://instagram.com/love_epil_wroclaw?igshid=YmMyMTA2M2Y=
 [9]: https://instagram.com/anna_zavolovich_cosmetolog?igshid=YmMyMTA2M2Y=
 [10]: https://www.instagram.com/dr_victoriarakhman/?igshid=YmMyMTA2M2Y%3D
+[11]: https://arch-bip.ms.gov.pl/pl/rejestry-i-ewidencje/tlumacze-przysiegli/lista-tlumaczy-przysieglych/search.html?City=Wroc%C5%82aw&Reg=1&Language=12
