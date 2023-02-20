@@ -5,7 +5,7 @@
 [Versus Serwis][1] - Далеко від центра, но говорять українською и поки все добре робили. Іноді тяжко дозвонитись :(<br />
 [Centrum Aut Japońskich i Koreańskich][2]<br />
 [Alma Auto Centrum, Grabiszyńska 231E][6] +380972375780 - можна на вайбер писати<br />
-[Auto Plus Garage  aleja Wiśniowa 81][7]<br />
+
 
 
 
@@ -34,7 +34,7 @@
 [4]: https://maps.app.goo.gl/YELNQXJUYUY7GpGz7
 [5]: https://goo.gl/maps/6qSkcufk6N6ATJWU6
 [6]: https://autogaz.wroc.pl/
-[7]: https://autoplusgarage.net/
+
 
 
 
