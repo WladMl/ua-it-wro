@@ -22,7 +22,8 @@
 [Лазерна епіляція][8] <br />
 [Косметолог][9] <br />
 [Дерматолог / косметолог][10] <br />
-[Heels | Stretching | Yoga | Twerk | Vogue][11] <br />
+[Heels | Stretching | Yoga | Twerk | Vogue][12] <br />
+[Масаж][13] <br />
 
 <!-- resources -->
 
@@ -38,3 +39,4 @@
 [10]: https://www.instagram.com/dr_victoriarakhman/?igshid=YmMyMTA2M2Y%3D
 [11]: https://arch-bip.ms.gov.pl/pl/rejestry-i-ewidencje/tlumacze-przysiegli/lista-tlumaczy-przysieglych/search.html?City=Wroc%C5%82aw&Reg=1&Language=12
 [12]: https://www.instagram.com/inlaf_project/?igshid=YmMyMTA2M2Y%3D
+[13]: https://www.instagram.com/ok.masaz/?igshid=MGU3ZTQzNzY%3D
