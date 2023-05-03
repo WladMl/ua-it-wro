@@ -21,7 +21,8 @@
 ## Мийні
 
 [Dry Upholstery Car Wash Wroclaw · Wyścigowa 54-56, 5][5] - говорять укр і рос. Власник укр
-якщо капітально - миють довго
+якщо капітально - миють довго<br />
+[CRYSTAL MYJNIA RECZNA & DETAILING][5] - говорять російською. Власник укр. Миють гарно.
 
 
 
@@ -36,6 +37,7 @@
 [5]: https://goo.gl/maps/6qSkcufk6N6ATJWU6
 [6]: https://autogaz.wroc.pl/
 [7]: https://maps.app.goo.gl/Gzs2H4iB6FwucxXZ9?g_st=ic
+[8]: https://www.instagram.com/crystal_detailing_wro/?igshid=YmMyMTA2M2Y%3D
 
 
 

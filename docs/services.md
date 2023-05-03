@@ -12,6 +12,8 @@
 [AppleFix][3] - Два рази міняв акумулятор в ноуті і три рази в айфоні в
 залишився задоволений<br />
 [iCentrum][4] - Ремонт Mac +48 794 724 532
+[zbitaszybka][14] - Ремонт iphone 
+
 
 
 ## Обмін валют (Кантори)
@@ -24,6 +26,9 @@
 [Дерматолог / косметолог][10] <br />
 [Heels | Stretching | Yoga | Twerk | Vogue][12] <br />
 [Масаж][13] <br />
+
+## Мовні курси
+[Курси польської мови Вісла. Рекомендую Даміана.][15]
 
 <!-- resources -->
 
@@ -40,3 +45,5 @@
 [11]: https://arch-bip.ms.gov.pl/pl/rejestry-i-ewidencje/tlumacze-przysiegli/lista-tlumaczy-przysieglych/search.html?City=Wroc%C5%82aw&Reg=1&Language=12
 [12]: https://www.instagram.com/inlaf_project/?igshid=YmMyMTA2M2Y%3D
 [13]: https://www.instagram.com/ok.masaz/?igshid=MGU3ZTQzNzY%3D
+[14]: https://zbitaszybka.pl/
+[15]: http://centrumjezykowewisla.com.pl/
