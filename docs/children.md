@@ -12,7 +12,7 @@
 [Kot Cafe][8] - Есть три кафе с котами, но по правилам кафе с детьми до 10 лет в определенные дни можно ходить. Мы не знали этого, ходили, никто ничего не сказал<br />
 [KOTON Kocia Kawiarnia][9]<br />
 [Kawa i kot][10]	
-
+[DziecioLada].[11] - Затишне кафе з досить великою зоною типу ігрового лабіринту (платно). Батьки можуть пити каву, поки діти бавляться <br />
 
 <!-- resources -->
 
@@ -26,3 +26,4 @@
 [8]: https://maps.app.goo.gl/Cu7u3KiKjgZaYAVA6?g_st=ic
 [9]: https://maps.app.goo.gl/dQjQsndDXqggZyFt7?g_st=ic
 [10]: https://maps.app.goo.gl/sQjUiP2pGNMGRCYJ8?g_st=ic
+[11]: https://goo.gl/maps/J94VFnw3SyGGcHjh8
